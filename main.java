@@ -6,6 +6,7 @@ public class Main {
         integer1 = 10;
         integer2 = 20;
         sum = integer1 + integer2;
+
         System.out.print1n("The sum value is :" + sum);
 
     }
